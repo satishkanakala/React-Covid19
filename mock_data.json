@@ -1,0 +1,125 @@
+{
+    "students": [{
+            "id": 1,
+            "name": "Raj",
+            "age": 12,
+            "sex": "male",
+            "class": 7,
+            "roll no": 26,
+            "phone": 987654,
+            "address": "malad east"
+        },
+        {
+            "id": 2,
+            "name": "Jai",
+            "age": 12,
+            "sex": "male",
+            "class": 7,
+            "roll no": 29,
+            "phone": 944654,
+            "address": "malad west"
+        }
+    ],
+
+    "result": [{
+            "id": 1,
+            "name": "Raj",
+            "class": 7,
+            "roll no": 26,
+            "hindi": 76,
+            "english": 72,
+            "math": 92,
+            "result": "82 %"
+        },
+        {
+            "id": 2,
+            "name": "Jai",
+            "class": 7,
+            "roll no": 29,
+            "hindi": 76,
+            "english": 72,
+            "math": 92,
+            "result": "82 %"
+        }
+    ],
+
+    "library": [{
+            "id": 1,
+            "name": "Jai",
+            "class": 7,
+            "roll no": 29,
+            "book name": "The Lost Symbol",
+            "issue date": "02/04/2019",
+            "received date": null
+        },
+        {
+            "id": 2,
+            "name": "Jai",
+            "class": 7,
+            "roll no": 29,
+            "book name": "Pursuit Of Happiness",
+            "issue date": "04/04/2019",
+            "received date": "12/04/2019"
+        }
+    ],
+    
+    "sports": [{
+            "id": 1,
+            "name": "Utsav",
+            "class": 7,
+            "roll no": 29,
+            "type": "football"
+        },
+        {
+            "id": 2,
+            "name": "Mahima",
+            "class": 7,
+            "roll no": 29,
+            "type": "badminton"
+        },
+        {
+            "id": 3,
+            "name": "Dheer",
+            "class": 7,
+            "roll no": 29,
+            "type": "cricket"
+        },
+        {
+            "id": 4,
+            "name": "Pankaj",
+            "class": 7,
+            "roll no": 42,
+            "type": "football"
+        },
+        {
+            "id": 5,
+            "name": "Utsav",
+            "class": 7,
+            "roll no": 29,
+            "type": "football"
+        },
+        {
+            "id": 6,
+            "name": "Mahima",
+            "class": 7,
+            "roll no": 29,
+            "type": "badminton"
+        },
+        {
+            "id": 7,
+            "name": "Dheer",
+            "class": 7,
+            "roll no": 29,
+            "type": "cricket"
+        },
+        {
+            "id": 8,
+            "name": "Pankaj",
+            "class": 7,
+            "roll no": 42,
+            "type": "football"
+        }
+
+    ]
+    
+}
